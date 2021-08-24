@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "cout"
+    ],
+    "cSpell.enableFiletypes": [
+        "log"
     ]
 }
